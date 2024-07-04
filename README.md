@@ -14,9 +14,9 @@ Kullanıcı dostu arayüz ile kolayca gezinebilme.
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/BeratAgaca/WorldCuisineApp/assets/67809960/8e11b848-ccc0-4d20-a53e-7b4cded0a76c" alt="Screenshot 1" style="width: 32%;">
-  <img src="https://github.com/BeratAgaca/WorldCuisineApp/assets/67809960/f3ba4151-0fd6-4845-80b7-dd677726d12a" alt="Screenshot 2" style="width: 32%;">
-  <img src="https://github.com/BeratAgaca/WorldCuisineApp/assets/67809960/81cdf386-2605-44e5-9780-df1cd7c2ce8c" alt="Screenshot 3" style="width: 32%;">
+  <img src="https://github.com/BeratAgaca/WorldCuisineAndroid/assets/67809960/f245b073-e6dc-4344-b07a-2c508bdac223" alt="Screenshot 1" style="width: 32%;">
+  <img src="https://github.com/BeratAgaca/WorldCuisineAndroid/assets/67809960/ea355525-9fe1-4d81-b8f2-db9320617745" alt="Screenshot 2" style="width: 32%;">
+  <img src="https://github.com/BeratAgaca/WorldCuisineAndroid/assets/67809960/e63ae2fa-3233-49a2-a8c4-2a55228d39b7" alt="Screenshot 3" style="width: 32%;">
 </div>
 
 ## Kişisel Bilgi
