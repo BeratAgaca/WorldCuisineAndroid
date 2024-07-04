@@ -19,6 +19,3 @@ Kullanıcı dostu arayüz ile kolayca gezinebilme.
   <img src="https://github.com/BeratAgaca/WorldCuisineAndroid/assets/67809960/e63ae2fa-3233-49a2-a8c4-2a55228d39b7" alt="Screenshot 3" style="width: 32%;">
 </div>
 
-## Kişisel Bilgi
-
-Bu proje COM4502 Applications Development with Android Operating System dersinde almış olduğumuz bilgiler ışığında yapılmıştır.
